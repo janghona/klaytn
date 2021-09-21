@@ -55,5 +55,3 @@ tests/testdata
 
 # generated files but not want to include
 contracts/cypress/credit.go
-
-#a
